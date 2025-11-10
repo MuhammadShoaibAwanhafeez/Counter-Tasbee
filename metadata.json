@@ -1,0 +1,5 @@
+{
+  "name": "Beep Counter",
+  "description": "A simple counter application that plays a beep sound when a user-defined target number is reached. Features include increment, decrement, reset, and setting a target value.",
+  "requestFramePermissions": []
+}
